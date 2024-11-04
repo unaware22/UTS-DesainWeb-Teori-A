@@ -1,1 +1,3 @@
-# UTS-DesainWeb-Teori-A
+1. Topik: Topik yang saya buat pada web ini yaitu penjualan (e-commerce) berbagai jenis buah (fruit) dan sayuran segar (vegetable). Dengan menyediakan informasi. seperti harga, rating dari pembeli, diskon, tawaran yang menarik, lokasi penjualan, dan video mengenai toko kami.
+
+2. Keterangan/Penjelasan Website: Website ini bertujuan untuk menjadi alternatif bagi pelanggan yang sedang mencari buah (fruit) dan sayuran segar (vegetable) dengan kualitas yang terjamin. pada website ini terdapat beberapa fungsi seperti dapat register dan login akun. memunculkan video iklan tentang produk kami, dapat melihat lokasi toko kami dengan akurat, dan dapat mengorder buah dan sayuran yang toko kita jual.
